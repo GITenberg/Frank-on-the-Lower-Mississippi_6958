@@ -1,4 +1,8 @@
 _repo: Frank-on-the-Lower-Mississippi_6958
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Castlemon, Harry
@@ -10,6 +14,8 @@ creator:
     gutenberg_agent_id: '2274'
     url: http://www.gutenberg.org/2009/agents/2274
 description: Cover -- Table of Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6958#Frank-on-the-Lower-Mississippi
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2004-11-01'
 gutenberg_type: Text
